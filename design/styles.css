@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(239, 189, 197) !important;
+    font-size: 16 px;
+  font-family: "Outfit", sans-serif;
+
+}
+
+.recipee_card {
+    max-width: 900px;
+    background-color: hsl(0, 0%, 100%);
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+h1 , h2 , h3 {
+      font-family: "Young Serif", serif;
+
+}
+
+
+
+ul {
+    font-weight: 400;
+    
+}
+
+ol {
+    
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+h2,
+h3 {
+    color: hsl(14, 45%, 36%);
+}
+.prep{
+        background-color: rgb(255, 239, 247);
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 100px;
+    margin-top: 10px;
+    padding: 20px;
+}
+.nut{
+    margin-left: 10px;
+}
+.tab{
+    width: 100%;
+    border-collapse: collapse;
+  
+}
+
+.ing{
+    padding: 20px;
+}
+h1{
+    color: black;
+}
+.tab{
+    border-collapse: collapse;
+}
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+
+}
